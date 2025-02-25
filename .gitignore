@@ -1,0 +1,10 @@
+# Ignorar a pasta apache
+apache/
+apache_start.bat
+apache_stop.bat
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
