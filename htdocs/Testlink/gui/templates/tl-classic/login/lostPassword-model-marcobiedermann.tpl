@@ -17,15 +17,6 @@
       <div class="grid__container">
       <img src="{$tlCfg->theme_dir}images/{$tlCfg->logo_login}">
       </div>
-      
-      {if $gui->note != ''}
-      <br>
-      <div class="grid__container">
-      <div class="user__feedback">
-      {$gui->note}
-      </div>
-      </div>
-      {/if}
 
       <div class="grid__container">
       <form name="lostPassword" id="lostPassword" action="lostPassword.php?viewer={$gui->viewer}" method="post" class="form form--login">
@@ -44,6 +35,15 @@
 
       </form>
     </div>
+
+    {if $gui->note != ''}
+    <br>
+    <div class="grid__container">
+    <div class="user__feedback">
+    {$gui->note}
+    </div>
+    </div>
+    {/if}
   </div>
 </body>
 </html>

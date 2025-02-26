@@ -734,3 +734,35 @@
 		Logout of 'henriqueaz.ship'
 	[25/Feb/26 19:16:07][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
 		Login for 'henriqueaz.ship' from '127.0.0.1' succeeded
+	[25/Feb/26 19:30:48][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Keyword 'Excel' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Formar Carga/AZS-25:Carregar Pedido por Planilha Excel - xslx Filtro CIF' Version '1' 
+	[25/Feb/26 19:30:48][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Keyword 'Formar Carga' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Formar Carga/AZS-25:Carregar Pedido por Planilha Excel - xslx Filtro CIF' Version '1' 
+	[25/Feb/26 19:30:48][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Keyword 'Importar' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Formar Carga/AZS-25:Carregar Pedido por Planilha Excel - xslx Filtro CIF' Version '1' 
+	[25/Feb/26 19:30:48][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Keyword 'Pedidos' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Formar Carga/AZS-25:Carregar Pedido por Planilha Excel - xslx Filtro CIF' Version '1' 
+	[25/Feb/26 19:30:48][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Keyword 'Planilha' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Formar Carga/AZS-25:Carregar Pedido por Planilha Excel - xslx Filtro CIF' Version '1' 
+	[25/Feb/26 19:33:08][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Keyword 'CIF' was created
+	[25/Feb/26 19:33:13][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Keyword 'FOB' was created
+	[25/Feb/26 19:33:30][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Keyword 'CIF' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Formar Carga/AZS-25:Carregar Pedido por Planilha Excel - xslx Filtro CIF' Version '1' 
+	[25/Feb/26 20:03:30][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Logout of 'henriqueaz.ship'
+	[25/Feb/26 20:03:43][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Login for 'henriqueaz.ship' from '127.0.0.1' succeeded
+	[25/Feb/26 20:09:54][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Attachment '' - file 'img1_filtro_cif.png' was created
+	[25/Feb/26 20:10:19][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Attachment '' - file 'img1_filtro_fob.png' was created
+	[25/Feb/26 20:10:34][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Attachment '' was deleted
+	[25/Feb/26 20:10:38][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Attachment '' was deleted
+	[25/Feb/26 20:10:56][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Attachment '' - file 'img2_filtro_fob.png' was created
+	[25/Feb/26 20:11:01][AUDIT][k7o8dnnhr863atevpol7mno528][GUI - Projecto de Teste ID : 1]
+		Attachment '' - file 'img1_filtro_cif.png' was created

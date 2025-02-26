@@ -16,15 +16,6 @@
       <img src="{$tlCfg->theme_dir}images/{$tlCfg->logo_login}"><br>
       <span>{$tlVersion|escape} </span>
       </div>
-      
-      {if $gui->note != ''}
-      <br>
-      <div class="grid__container">
-      <div class="user__feedback">
-      {$gui->note}
-      </div>
-      </div>
-      {/if}
 
       {if $tlCfg->demoMode}
       <br>
@@ -85,6 +76,15 @@
           {/if}
           </p> 
         </div>
+      {/if}
+
+      {if $gui->note != ''}
+      <br>
+      <div class="grid__container">
+      <div class="user__feedback">
+      {$gui->note}
+      </div>
+      </div>
       {/if}
   </div>
 </body>
