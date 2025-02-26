@@ -97,6 +97,11 @@ span, div {
 	padding:		0px;
 }
 
+.logo-navbar {
+	margin: 10px; /* Margem logo_navbar na tela de inicio */
+  }
+  
+
 /* h1.title - To avoid problems with ext js css */
 /* 20080529 - franciscom - font-size reduced */
 h1, h1.title {

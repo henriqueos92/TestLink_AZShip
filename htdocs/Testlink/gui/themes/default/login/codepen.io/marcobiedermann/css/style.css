@@ -165,8 +165,44 @@ input {
   padding: 30px; /* Espaçamento interno */
   border-radius: 10px; /* Bordas arredondadas */
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
-  max-width: 400px; /* Define uma largura máxima */
+  max-width: 700px; /* Define uma largura máxima */
   margin: 50px auto; /* Centraliza a div na tela */
   text-align: center; /* Centraliza o conteúdo */
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  gap: 20px; /* Espaço entre a imagem e o formulário */
 }
 
+.login-logo-container {
+  background-color: #411ce9; /* Cor de fundo desejada */
+  padding: 10px; /* Espaçamento interno ao redor da imagem */
+  display: inline-block; /* Garante que o fundo só ocupe o tamanho da imagem */
+  border-radius: 8px; /* Borda arredondada opcional */
+}
+
+.login-logo {
+  width: 50px !important;
+  height: 50px !important;
+  object-fit: contain; /* Mantém a imagem dentro do tamanho sem distorcer */
+  display: block;
+}
+
+
+.form--login {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Alinha os campos à esquerda */
+}
+
+.form__field {
+  width: 100%; /* Faz os campos ocuparem toda a largura do formulário */
+}
+
+.form__input {
+  width: 100%; /* Faz os inputs ocuparem toda a largura disponível */
+  padding: 10px; /* Ajuste no padding para melhor usabilidade */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}

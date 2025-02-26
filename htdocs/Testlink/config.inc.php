@@ -620,7 +620,7 @@ $tlCfg->api->id_format = "[ID: %s ]";
 /* [GUI LAYOUT] */
 
 /** Company logo (used by navigation bar and login page page) */
-$tlCfg->logo_login = 'tl-logo-transparent-25.png';
+$tlCfg->logo_login = 'az4.webp';
 $tlCfg->logo_navbar = 'tl-logo-transparent-12.5.png';
 
 /** Height of the navbar always displayed  */
@@ -1516,7 +1516,7 @@ $tlCfg->attachments->access_string = "[*]";
  * Files that are allowed.  Separate items by commas.
  * eg. 'doc,xls,gif,png,jpg'
  */
-$tlCfg->attachments->allowed_files = 'doc,xls,gif,png,jpg,xlsx,csv';
+$tlCfg->attachments->allowed_files = 'doc,xls,gif,png,jpg,xlsx,csv,rar,7z,zip,pdf,txt,log,xml,html,htm,docx';
 
 
 /**
