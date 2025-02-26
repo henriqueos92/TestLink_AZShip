@@ -7,7 +7,12 @@ html {
 }
 
 body {
-  background-color: #DEDEAD;
+  /*background-color: #DEDEAD;*/
+  background-image: url('../img/back_ground_degrade.png'); /* Define a imagem de fundo */
+  background-size: 100% auto; /* Largura 100%, altura automática */
+  background-position: top center; /* Alinha no topo e centraliza */
+  background-repeat: repeat-y; /* Faz a imagem repetir apenas verticalmente */
+  background-attachment: fixed; /* Mantém a imagem fixa ao rolar a página (opcional) */
   color: #606468;
   font: 400 0.875rem/1.5 "Open Sans", sans-serif;
   margin: 0;
@@ -154,3 +159,14 @@ input {
   margin: 0 auto;
   width: 90%;
 }
+
+.site__container {
+  background-color: white; /* Fundo branco */
+  padding: 30px; /* Espaçamento interno */
+  border-radius: 10px; /* Bordas arredondadas */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  max-width: 400px; /* Define uma largura máxima */
+  margin: 50px auto; /* Centraliza a div na tela */
+  text-align: center; /* Centraliza o conteúdo */
+}
+
