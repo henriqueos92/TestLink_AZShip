@@ -1092,3 +1092,53 @@
 		Attachment '' - file 'img3_tipo_frete.png' was created
 	[25/Feb/27 18:28:59][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
 		Attachment '' - file 'img2_btn_manual.png' was created
+	[25/Feb/27 19:11:01][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Cadastro' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-29:Novo Frete - Tipo de lançamento Negociação' Version '1' 
+	[25/Feb/27 19:11:01][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Carga' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-29:Novo Frete - Tipo de lançamento Negociação' Version '1' 
+	[25/Feb/27 19:11:01][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Fechado' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-29:Novo Frete - Tipo de lançamento Negociação' Version '1' 
+	[25/Feb/27 19:11:01][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Frete' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-29:Novo Frete - Tipo de lançamento Negociação' Version '1' 
+	[25/Feb/27 19:11:01][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Novo Frete - Manual' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-29:Novo Frete - Tipo de lançamento Negociação' Version '1' 
+	[25/Feb/27 19:11:01][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Valor' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-29:Novo Frete - Tipo de lançamento Negociação' Version '1' 
+	[25/Feb/27 19:12:09][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Negociação' was created
+	[25/Feb/27 19:12:29][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Tipo' was created
+	[25/Feb/27 19:12:48][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Destinatário' was created
+	[25/Feb/27 19:12:55][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Coleta' was created
+	[25/Feb/27 19:13:00][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Local' was created
+	[25/Feb/27 19:13:11][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Identificador' was created
+	[25/Feb/27 19:13:21][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Primarização' was created
+	[25/Feb/27 19:13:47][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Combinar' was created
+	[25/Feb/27 19:14:37][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Fechado' was unassigned from Test Case 'Novo Frete - Tipo de lançamento A Combinar'
+	[25/Feb/27 19:14:37][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Combinar' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-27:Novo Frete - Tipo de lançamento A Combinar' Version '1' 
+	[25/Feb/27 19:14:48][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Primarização' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-27:Novo Frete - Tipo de lançamento A Combinar' Version '1' 
+	[25/Feb/27 19:15:34][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Fixo' was created
+	[25/Feb/27 19:15:42][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Preço' was created
+	[25/Feb/27 19:16:18][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Fixo' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-28:Novo Frete - Tipo de lançamento Preço Fixo' Version '1' 
+	[25/Feb/27 19:16:18][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Preço' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-28:Novo Frete - Tipo de lançamento Preço Fixo' Version '1' 
+	[25/Feb/27 19:16:37][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Fechado' was unassigned from Test Case 'Novo Frete - Tipo de lançamento Negociação'
+	[25/Feb/27 19:16:37][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Keyword 'Negociação' was assigned to the Test Case '/AZShip/Embarcador/Cargas/Carga Manual/AZS-29:Novo Frete - Tipo de lançamento Negociação' Version '1' 
+	[25/Feb/27 19:16:39][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Logout of 'henriqueaz.ship'
+	[25/Feb/27 19:17:40][AUDIT][6knaahehi1csllkkv5h0p5nkld][GUI - Projecto de Teste ID : 1]
+		Login for 'henriqueaz.ship' from '127.0.0.1' succeeded

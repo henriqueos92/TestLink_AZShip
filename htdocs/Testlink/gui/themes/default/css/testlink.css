@@ -105,7 +105,8 @@ span, div {
 /* h1.title - To avoid problems with ext js css */
 /* 20080529 - franciscom - font-size reduced */
 h1, h1.title {
-	background:		#059;
+	/*background:		#059;*/
+	background:	  #7906A9;
 	border: 		1px solid black;
 	color:			white;
 	margin:			0px 0px 4px 0px;
@@ -1183,7 +1184,8 @@ th.testlink, td.testlink, tr.testlink td {
 
 .table .thead-dark th {
   color: #fff;
-  background-color: #212529;
+  /*background-color: #212529;*/
+  background-color: #7906A9;
   border-color: #32383e;
 }
 
