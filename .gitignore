@@ -8,3 +8,14 @@ apache_stop.bat
 
 # Ignorar arquivos temporários
 *.tmp
+
+
+# Ignorar arquivos do MySQL
+mysql/data/ib_logfile0
+mysql/data/ib_logfile1
+mysql/data/ibdata1
+mysql/data/testlink/events.ibd
+mysql/data/testlink/transactions.ibd
+
+# Ignorar arquivos temporários
+tmp/sess_*
