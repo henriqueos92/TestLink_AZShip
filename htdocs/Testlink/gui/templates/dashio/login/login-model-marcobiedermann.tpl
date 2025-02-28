@@ -80,7 +80,7 @@
 
       {if $gui->note != ''}
       <br>
-      <div class="grid__container">
+      <div class="grid__feedback">
       <div class="user__feedback">
       {$gui->note}
       </div>

@@ -130,7 +130,8 @@ input {
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
       -ms-flex-direction: row;
-          flex-direction: row;
+          flex-direction: column;
+          margin: calc(50vh - 200px) auto;
 }
 
 .hidden {
@@ -149,15 +150,23 @@ input {
 }
 
 .grid__container {
+  max-width: 20rem;
+  margin-bottom: 20px; 
+  width: 100%;
+}
+
+.grid__feedback {
   margin: 0 auto;
   max-width: 20rem;
   width: 90%;
 }
 
-.user__feedback {
-  font-weight: bold;
-  margin: 0 auto;
+.user__feedback { /* Garantir que a mensagem fique no centro e com algum espaçamento */
   width: 90%;
+  text-align: center; /* Centralizar o texto */
+  background-color: #ffcccc; /* Opcional: cor de fundo para chamar atenção */
+  padding: 10px; /* Espaçamento interno para o texto */
+  border-radius: 5px; /* Bordas arredondadas */
 }
 
 
@@ -167,11 +176,13 @@ input {
   border-radius: 10px; 
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   max-width: 700px; 
+  max-height: 350px; 
   margin: 50px auto; 
   text-align: center;
   display: flex; 
   align-items: center; 
-  justify-content: center;
+  /*justify-content: center;*/
+  justify-content: flex-start;
   gap: 20px;
 }
 
