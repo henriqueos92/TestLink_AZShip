@@ -149,13 +149,15 @@ form
 /* A Visited link is still blue, except if class is btn-primary from bootstrap */
 
 a:not(.btn-primary){
-	color: 			#059;
+	/*color: 			#059;*/
+	color:			#4D007C;
 	text-decoration: none;
 }
 
 /* A link being hovered over is red*/
 a:hover   {
-	color: 			#900;
+	/*color: 			#900;*/
+	color:red;
 	text-decoration: none;
 }
 
