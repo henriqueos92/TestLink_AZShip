@@ -2281,7 +2281,7 @@ $TLS_platform_number_help = "Número de Plataformas Ligadas";
 $TLS_build_number_help = "Número de Builds";
 
 // ----- gui/templates/mainPage_left.tpl -----
-$TLS_href_assign_user_roles = "Permissão do Utilizador";
+$href_codetracker_management = "Permissão do Utilizador";
 $TLS_href_browse_tc = "Pesquisar Casos de Teste";
 $TLS_href_cfields_management = "Gerir Campos Personalizados";
 $TLS_href_cfields_tproject_assign = "Selecionar Campos Personalizados";
