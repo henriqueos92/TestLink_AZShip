@@ -2345,6 +2345,7 @@ $TLS_href_exec_ro_access = "Acesso em modo de leitura à Execução de Testes";
 $TLS_href_metrics_dashboard = "Painel de Métricas";
 $TLS_href_newest_tcversions = "Verificar Casos de Teste atualizados";
 $TLS_href_plan_assign_urgency = "Definir a Prioridade dos Testes";
+$TLS_href_dashboard = "Dashboard";
 $TLS_href_plan_management = "Gerenciar Plano de Teste";
 $TLS_href_plan_mstones = "Gerenciamento de Marcos";
 $TLS_href_rep_and_metrics = "Relatórios e Métricas";
@@ -2958,6 +2959,8 @@ $TLS_show_closed_builds_btn = "Exibir os builds encerrados";
 // ----- lib/testcases/tcCreatedPerUser.php -----
 $TLS_link_report_test_cases_created_per_user = "Casos de teste criados por usuário";
 $TLS_testcases_created_per_user = 'Projeto: %s - Casos de teste criados por usuário';
+
+
 
 
 

@@ -1747,6 +1747,7 @@ function getActions(&$gui,$baseURL) {
   $actions->tcCreatedUser = "$bb/results/tcCreatedPerUserOnTestProject.php?do_action=uinput&{$ctx}";
   $actions->assignReq = "$bb/general/frmWorkArea.php?feature=assignReqs&{$ctx}";
   $actions->inventoryView = "$bb/inventory/inventoryView.php?{$ctx}";
+  $actions->dashboard = "$bb/dashboard";
 
   $actions->fullTextSearch = "$bb/search/searchMgmt.php?{$ctx}";
 

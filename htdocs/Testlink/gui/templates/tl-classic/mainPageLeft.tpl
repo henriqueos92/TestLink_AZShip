@@ -88,7 +88,7 @@
 {$inventoryView="lib/inventory/inventoryView.php"}
 
 
-<div class="vertical_menu" style="float: left; margin:0px 10px 10px 0px; width: 320px;">
+<div class="vertical_menu" style="float: left; margin:20px 10px 10px 0px; width: 320px;">
 
   {if $display_left_block_top}
     {if isset($gui->plugins.EVENT_LEFTMENU_TOP)}
@@ -190,6 +190,10 @@
      {if $gui->grants.modify_tc eq "yes"}
        <a href="{$tcCreatedUser}{$gui->testprojectID}" class="list-group-item" style="{$aStyle}">{$labels.link_report_test_cases_created_per_user}</a>
      {/if}
+
+    {if $gui->grants.modify_tc eq "yes"}
+      <a href="http://azship/dashboard/" class="list-group-item" style="{$aStyle}">Dashboard</a>
+    {/if}
     
     </div>
 {/if}
