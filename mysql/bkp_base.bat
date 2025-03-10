@@ -24,5 +24,3 @@ if %ERRORLEVEL% equ 0 (
 ) else (
     echo Backup failed.
 )
-
-pause
