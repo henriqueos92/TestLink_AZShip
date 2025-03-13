@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `testlink`.`executions`.`tcversion_id` AS `tcversion_id`,`testlink`.`executions`.`testplan_id` AS `testplan_id`,`testlink`.`executions`.`build_id` AS `build_id`,`testlink`.`executions`.`platform_id` AS `platform_id`,max(`testlink`.`executions`.`id`) AS `id` from `testlink`.`executions` group by `testlink`.`executions`.`tcversion_id`,`testlink`.`executions`.`testplan_id`,`testlink`.`executions`.`build_id`,`testlink`.`executions`.`platform_id`
+md5=9a3ff75d08b9c44ef400728c92305f03
+updatable=0
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=2025-02-21 11:03:01
+create-version=2
+source=SELECT tcversion_id, testplan_id,build_id,platform_id,max(id) AS id\nFROM /*prefix*/executions \nGROUP BY tcversion_id,testplan_id,build_id,platform_id
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_general_ci
+view_body_utf8=select `testlink`.`executions`.`tcversion_id` AS `tcversion_id`,`testlink`.`executions`.`testplan_id` AS `testplan_id`,`testlink`.`executions`.`build_id` AS `build_id`,`testlink`.`executions`.`platform_id` AS `platform_id`,max(`testlink`.`executions`.`id`) AS `id` from `testlink`.`executions` group by `testlink`.`executions`.`tcversion_id`,`testlink`.`executions`.`testplan_id`,`testlink`.`executions`.`build_id`,`testlink`.`executions`.`platform_id`
+mariadb-version=100425
